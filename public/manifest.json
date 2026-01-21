@@ -1,0 +1,15 @@
+{
+    "short_name": "Frog Hop",
+    "name": "Frog Hop Task Manager",
+    "icons": [
+      {
+        "src": "/frog.svg",
+        "sizes": "any",
+        "type": "image/svg+xml"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "theme_color": "#4CAF50"
+  }
